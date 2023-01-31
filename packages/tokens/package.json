@@ -11,7 +11,7 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "author": "Igor Trentini",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@ignite-ui/ts-config": "*",
     "@ignite-ui/eslint-config": "*",

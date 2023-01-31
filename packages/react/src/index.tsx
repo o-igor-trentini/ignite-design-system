@@ -1,8 +1,13 @@
-import { colors } from '@ignite-ui/tokens'
-import {FC} from "react";
+import { FC } from 'react'
+import {styled} from "./styles";
 
-export const App:FC = () => {
-    return (
-        <h1></h1>
-    )
+const Button = styled('button', {
+  fontFamily: '$default',
+  backgroundColor: '$ignite500',
+  borderRadius: '$md',
+  padding: '$4',
+})
+
+export const App: FC = () => {
+  return <Button>Botão</Button>
 }

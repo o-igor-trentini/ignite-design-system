@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Igor Trentini",
-  "license": "ISC",
+  "license": "MIT",
   "private": true
 }

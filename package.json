@@ -10,7 +10,7 @@
     "url": "git+https://github.com/o-igor-trentini/ignite-design-system.git"
   },
   "author": "Igor Trentini",
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "workspaces": ["packages/*"]
 }
