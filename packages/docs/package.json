@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "start-storybook -p 6006 -h localhost",
-    "build": "build-storybook"
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook"
   },
   "author": "Igor Trentini",
   "license": "MIT",

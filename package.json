@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "turbo run dev --parallel",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider turbo run build"
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,10 @@
   "author": "Igor Trentini",
   "license": "MIT",
   "private": true,
-  "workspaces": ["packages/*"]
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^1.7.4"
+  }
 }

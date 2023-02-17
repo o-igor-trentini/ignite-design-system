@@ -13,14 +13,6 @@ N
 packages/tokens/.eslintrc.json,6/9/697ba1c80f0d1ecc15a946b3f81c892f202d8f32
 M
 packages/react/.eslintrc.json,6/2/62795f92d71b3c662b1cc31e33c262b2326561e8
-O
-packages/ts-config/package.json,d/0/d071d63a95e5b653538b6bc9cae3e3b46dc3a803
-<
-package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-L
-packages/docs/.eslintrc.json,6/8/68eab9e98f72af900e3e623fc81c44cbc5ed5be0
-S
-#packages/docs/.storybook/manager.js,7/4/74bbddcda948c55eb6c43693c56eb765c8001164
 L
 packages/tokens/src/fonts.ts,0/f/0f8f1d4ec1679bb16d583822a9ef17f72180df2e
 S
@@ -33,16 +25,6 @@ L
 packages/react/src/index.tsx,4/3/431cbeb5c03987bd42ff41f3c3cf27086494f5b9
 \
 ,packages/docs/src/stories/Button.stories.tsx,b/7/b70fae6977e842ab0aa0fda814429a2d025b4857
-Z
-*packages/docs/.storybook/preview-head.html,7/d/7d0e2aea8929ba2cec052b295bf7a4fed7f41eb2
-S
-#packages/docs/.storybook/preview.js,e/6/e69ed887c486ac5ded582eca7a9b1667e750d4fa
-J
-packages/docs/package.json,9/6/96eb3f2bacfda104cc55aa740b4837e308e91b84
-A
-package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
-P
- packages/docs/.storybook/main.js,8/9/89f2f3d26cb56f4d44307abec183a1acc6ae216d
 X
 (packages/docs/src/pages/home.stories.mdx,1/0/10d2e63e36d74d6ba6f3871d58a1b02c29b90036
 L
