@@ -45,7 +45,5 @@ P
  packages/docs/.storybook/main.js,8/9/89f2f3d26cb56f4d44307abec183a1acc6ae216d
 X
 (packages/docs/src/pages/home.stories.mdx,1/0/10d2e63e36d74d6ba6f3871d58a1b02c29b90036
-a
-1packages/docs/src/pages/tokens/colors.stories.mdx,f/8/f841e4f2f076f36fbbeafd892342751a1e2d909f
 L
 packages/react/tsconfig.json,7/b/7b568de54971e965a74f2edd9abfaae54e63e8c5
