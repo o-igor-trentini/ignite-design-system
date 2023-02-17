@@ -14,8 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
+    "@ignite-ui/tokens": "*",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "tsup": "^6.5.0",

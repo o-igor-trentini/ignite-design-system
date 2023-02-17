@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "start-storybook -p 6006",
+    "dev": "start-storybook -p 6006 -h localhost",
     "build": "build-storybook"
   },
   "author": "Igor Trentini",
@@ -24,9 +24,12 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@storybook/addon-docs": "^6.5.16",
+    "@storybook/theming": "^6.5.16",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }

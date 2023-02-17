@@ -1,0 +1,1 @@
+{"v":3,"stories":{"home--page":{"id":"home--page","title":"Home","name":"Page","importPath":"./src/pages/home.stories.mdx"},"button--primary":{"id":"button--primary","title":"Button","name":"Primary","importPath":"./src/stories/Button.stories.tsx"},"button--big":{"id":"button--big","title":"Button","name":"Big","importPath":"./src/stories/Button.stories.tsx"}}}
