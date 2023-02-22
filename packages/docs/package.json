@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
     "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "NODE_OPTIONS=--openssl-legacy-provider storybook-to-ghpages"
   },
   "author": "Igor Trentini",
   "license": "MIT",
