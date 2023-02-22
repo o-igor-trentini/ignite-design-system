@@ -14,3 +14,5 @@ export const Checkbox: FC<CheckboxProps> = (props) => {
     </CheckboxContainer>
   );
 };
+
+Checkbox.displayName = "Checkbox";

@@ -21,3 +21,5 @@ export const MultiStep: FC<MultiStepProps> = ({ size, currentStep = 1 }) => {
     </MultiStepContainer>
   );
 };
+
+MultiStep.displayName = "MultiStep";
