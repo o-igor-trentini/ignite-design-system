@@ -8,6 +8,13 @@ export default {
     src: "https://github.com/o-igor-trentini.png",
     alt: "Avatar do GitHub de Igor Trentini",
   },
+  argTypes: {
+    src: {
+      control: {
+        type: "text",
+      },
+    },
+  },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
