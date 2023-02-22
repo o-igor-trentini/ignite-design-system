@@ -24,10 +24,11 @@
   },
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*",
     "@radix-ui/react-avatar": "^1.0.1",
+    "@storybook/addon-a11y": "^6.5.16",
     "@storybook/addon-docs": "^6.5.16",
     "@storybook/theming": "^6.5.16",
     "polished": "^4.2.2",
