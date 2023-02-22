@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook"
+    "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook",
+    "deploy-storybook": "NODE_OPTIONS=--openssl-legacy-provider storybook-to-ghpages"
   },
   "author": "Igor Trentini",
   "license": "MIT",
@@ -17,6 +18,7 @@
     "@storybook/addon-links": "^6.5.16",
     "@storybook/builder-vite": "^0.3.0",
     "@storybook/react": "^6.5.16",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^3.0.1",
     "babel-loader": "^8.3.0",
