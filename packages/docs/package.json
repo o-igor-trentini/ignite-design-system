@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
     "@radix-ui/react-avatar": "^1.0.1",
