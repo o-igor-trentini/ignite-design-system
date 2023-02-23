@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@it-ignite-ui/ts-config",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "author": "Igor Trentini",

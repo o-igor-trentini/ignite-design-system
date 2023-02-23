@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@it-ignite-ui/react",
+  "version": "1.1.0",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -13,9 +13,9 @@
   "author": "Igor Trentini",
   "license": "ISC",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@it-ignite-ui/eslint-config": "*",
+    "@it-ignite-ui/tokens": "*",
+    "@it-ignite-ui/ts-config": "*",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "tsup": "^6.5.0",
