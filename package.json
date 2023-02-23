@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider turbo run build"
+    "build": "turbo run build"
   },
   "repository": {
     "type": "git",
