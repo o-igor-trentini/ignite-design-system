@@ -1,5 +1,11 @@
 # @it-ignite-ui/tokens
 
+## 1.2.1
+
+### Patch Changes
+
+- Adicionado repositório
+
 ## 1.2.0
 
 ### Minor Changes

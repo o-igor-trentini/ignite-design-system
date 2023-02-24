@@ -1,5 +1,11 @@
 # @it-ignite-ui/react
 
+## 1.1.2
+
+### Patch Changes
+
+- Adicionado repositório
+
 ## 1.1.1
 
 ### Patch Changes
