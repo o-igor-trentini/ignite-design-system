@@ -10,6 +10,10 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-igor-trentini/ignite-design-system.git"
+  },
   "author": "Igor Trentini",
   "license": "MIT",
   "devDependencies": {

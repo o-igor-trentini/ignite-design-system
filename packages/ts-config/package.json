@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "Igor Trentini",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-igor-trentini/ignite-design-system.git"
+  }
 }

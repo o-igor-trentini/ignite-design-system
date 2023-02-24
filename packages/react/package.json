@@ -11,6 +11,10 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "author": "Igor Trentini",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-igor-trentini/ignite-design-system.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@it-ignite-ui/eslint-config": "*",
