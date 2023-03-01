@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
-    "build": "build-storybook",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook",
     "deploy-storybook": "storybook-to-ghpages"
   },
   "author": "Igor Trentini",
@@ -33,7 +33,6 @@
     "@it-ignite-ui/react": "*",
     "@it-ignite-ui/tokens": "*",
     "@it-ignite-ui/ts-config": "*",
-    "@radix-ui/react-avatar": "^1.0.1",
     "@storybook/addon-a11y": "^6.5.16",
     "@storybook/addon-docs": "^6.5.16",
     "@storybook/theming": "^6.5.16",
