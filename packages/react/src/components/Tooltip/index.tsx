@@ -1,21 +1,30 @@
-import { ComponentProps, FC } from "react";
+import { FC, ReactNode } from "react";
 import * as RadixTooltip from "@radix-ui/react-tooltip";
+import { Text } from "../Text";
+import { TooltipContent } from "./styles";
 
-export const Tooltip: FC = () => {
+export interface TooltipProps {
+  children: ReactNode;
+  text: string;
+  delay?: number;
+}
+
+export const Tooltip: FC<TooltipProps> = ({ children, text, delay }) => {
   return (
     <RadixTooltip.Provider>
-      <RadixTooltip.Root>
-        <RadixTooltip.Trigger />
+      <RadixTooltip.Root delayDuration={delay}>
+        <RadixTooltip.Trigger asChild>{children}</RadixTooltip.Trigger>
+
         <RadixTooltip.Portal>
-          <RadixTooltip.Content>
+          <TooltipContent sideOffset={5} side="top">
+            <Text size="sm">{text}</Text>
+
             <RadixTooltip.Arrow />
-          </RadixTooltip.Content>
+          </TooltipContent>
         </RadixTooltip.Portal>
       </RadixTooltip.Root>
     </RadixTooltip.Provider>
   );
 };
-
-export interface TooltipProps extends ComponentProps<typeof Tooltip> {}
 
 Tooltip.displayName = "Tooltip";
