@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
     "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook",
+    "//OBS-BUILD-EM-DEV": "NODE_OPTIONS=--openssl-legacy-provider",
     "deploy-storybook": "storybook-to-ghpages"
   },
   "author": "Igor Trentini",
