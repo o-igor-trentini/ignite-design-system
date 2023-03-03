@@ -1,0 +1,2 @@
+import{A as t}from"./index-7ef441d6.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/o-igor-trentini.png",alt:"Avatar do GitHub de Igor Trentini"},argTypes:{src:{control:{type:"text"}}}},n={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{n as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-61daebf6.js.map
