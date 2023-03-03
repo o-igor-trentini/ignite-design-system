@@ -45,6 +45,11 @@ E use o seguinte comando para iniciar o projeto em modo de desenvolvimento:
 npm run dev
 ```
 
+> Este projeto também foi usado para ser o quinto desafio do módulo ReactJS 2022,
+> adicionado dois componentes a mais (Tooltip e Toast)
+> 
+> OBS: O projeto desenvolvido na aula está em outra branch e pode ser encontrado [aqui](https://github.com/o-igor-trentini/ignite-design-system/tree/class-project)
+
 ---
 
 Powered by: [Rocketseat][] 🚀
@@ -52,4 +57,4 @@ Powered by: [Rocketseat][] 🚀
 [Rocketseat]: https://www.rocketseat.com.br/
 [clicando aqui]: https://o-igor-trentini.github.io/ignite-design-system/
 [npm]: https://www.npmjs.com/
-[aqui]: https://www.figma.com/file/cowwFHJimoyQomSAynMjGz/Ignite-Call?node-id=0%3A1&t=IydEwBesdXn1kzQA-0
+[aqui]: https://efficient-sloth-d85.notion.site/Desafio-05-Adicionando-mais-componentes-do-Design-System-62fe007e1bd143cb9c4af418b35bcf51
