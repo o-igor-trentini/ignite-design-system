@@ -3,7 +3,12 @@
 # Ignite Design System
 
 > Ignite Design System é um projeto desenvolvido para explorar o conceito de Design System, monorepo e um pouco de DevOps.
-> <br/><br/> O desenvolvimento da aplicação foi construido a partir da documentação que pode ser encontrada [aqui][].
+> <br/><br/>O desenvolvimento da aplicação foi construido a partir da documentação que pode ser encontrada [aqui][].
+> 
+> Este projeto também foi usado para ser o quinto desafio do módulo ReactJS 2022,
+> adicionado dois componentes a mais (Tooltip e Toast)
+>
+> OBS: O projeto desenvolvido na aula está em outra branch e pode ser encontrado [aqui](https://github.com/o-igor-trentini/ignite-design-system/tree/class-project)
 
 Este projeto é o quinto do módulo de ReactJS 2022, um monorepo com pacotes de configuração de Eslint, tokens,
 componentes ReactJS e documentação dos componentes React com [Storybook](https://storybook.js.org/).
@@ -44,11 +49,6 @@ E use o seguinte comando para iniciar o projeto em modo de desenvolvimento:
 # Iniciará todos os repositórios devido ao uso do TurboRepo
 npm run dev
 ```
-
-> Este projeto também foi usado para ser o quinto desafio do módulo ReactJS 2022,
-> adicionado dois componentes a mais (Tooltip e Toast)
-> 
-> OBS: O projeto desenvolvido na aula está em outra branch e pode ser encontrado [aqui](https://github.com/o-igor-trentini/ignite-design-system/tree/class-project)
 
 ---
 
